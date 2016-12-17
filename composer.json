@@ -1,0 +1,14 @@
+{
+    "name": "package/myfirstpackage",
+    "description": "packagedemo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joyce",
+            "email": "1843019320@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
